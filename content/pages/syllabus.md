@@ -32,17 +32,126 @@ View the instructor's version of the [syllabus (PDF)]({{< baseurl >}}/resources/
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Drug Mechanisms, Explained with Antidepressants |
-| 3 | Pharmacokinetics |
-| 4 | Drug Addiction, Dopamine, and Liking vs. Wanting |
-| 5 | Action Potentials, Alcohol, and Shock Therapies |
-| 6 | Alcohol Antagonists |
-| 7 | Dose-Response Curves |
-| 8 | Anxiety and Sedatives |
-| 9 | Psychosis, Antipsychotics, and Parkinson’s Disease |
-| 10 | The Two Dichotomies |
-| 11 | Recreational Drugs |
-| 12 | Appetite and Nausea, Syringes
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Drug Mechanisms, Explained with Antidepressants
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Pharmacokinetics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Drug Addiction, Dopamine, and Liking vs. Wanting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Action Potentials, Alcohol, and Shock Therapies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Alcohol Antagonists
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Dose-Response Curves
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Anxiety and Sedatives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Psychosis, Antipsychotics, and Parkinson’s Disease
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Two Dichotomies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Recreational Drugs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Appetite and Nausea, Syringes
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
