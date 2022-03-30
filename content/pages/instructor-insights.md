@@ -29,7 +29,7 @@ By the end of the class, students should understand what neurotransmitters are. 
 
 ### Possibilities for Further Study and Future Careers
 
-This course often encourages students to take introductory psychology courses (like [_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011/)) or introductory neuroscience courses (like [_9.01 Introduction to Neuroscience_](/courses/9-01-introduction-to-neuroscience-fall-2007/)). This course is popular with premed students, and many students say that it increases motivation to go to medical school. At least three former students are now in medical school.
+This course often encourages students to take introductory psychology courses (like [_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011)) or introductory neuroscience courses (like [_9.01 Introduction to Neuroscience_](/courses/9-01-introduction-to-neuroscience-fall-2007)). This course is popular with premed students, and many students say that it increases motivation to go to medical school. At least three former students are now in medical school.
 
 {{< /div-with-class >}}
 
